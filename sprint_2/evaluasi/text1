@@ -1,0 +1,35 @@
+BISMILLAH
+SPRINT 1 - SOAL EVALUASI 1
+
+1. Jelaskan perbedaan (||) dan (&&) dalam operator logika!
+   Beserta Contoh Prakteknya...
+
+2. Jelaskan perbedaan operator kali pada aritmatika dengan kali pada penugasan! Buatkan contohnya!
+
+3. Buatlah daftar id, judul buku, pustaka, harga buku dalam bentuk Array Assosiative!
+
+4. $a = 2 // pangkat
+   $b = 9 
+   Buatlah Dalam Menggunakan Operator Aritmatika Dengan Jenis Pangkat ...
+   Dimana variable b pangkat variable a
+
+5. Buatlah TERNARY Untuk Menampilkan tingkatan suhu suatu ruangan! 
+   Dengan expression / Ekspresi Didalamnya Ada Operator Perbandingan
+   Kurang dari 20 celcius : dingin , 21-35 normal, lebih dari 35 panas
+
+6. Operator Penugasan => Ani Punya Uang = 500000, dia ingin jajan senilai = 100000, lalu ibunya kasih uang = 250000 dan semua uang Ani dibagi rata kepada 3 adik dan dirinya Berapakah Uang Saat Ini Yang Dipegang Oleh Ani?
+
+7. Buat dengan operator logika dan pengkondisian dari soal cerita dibawah ini:
+Perusahaan 'Z' akan menerima seseorang sebagai karyawannya apabila memenuhi kriteria berikut ini : akhlaknya baik dan salah satu dari cekatan dan disiplin.
+Lalu Budi melamar kerja, dia memiliki akhlak yang baik,tidak cekatan dan namun dia disiplin.
+------
+
+*** KALIAN BOLEH LIHAT SUMBER DARI ***
+1. php.net
+2. w3schools
+
+*** WAKTU MENGERJAKAN SAMPAI ASHAR - SEBELUM MEMULAI EVALUASI PERTAMA BERDOA TERLEBIH DAHULU ***
+
+*** EVALUASI KALIAN PUSH KE GITHUB DENGAN FOLDER EVALUASI1 DI DALAM REPO KURIKULUMPROGRAMMERPOTEKINDO - KIRIM LINK GITHUB KE WA ANA
+
+*** SEMOGA ALLAH MUDAHKAN TEMAN - TEMAN DALAM MENGERJAKAN EVALUASI AAMIIN ***
